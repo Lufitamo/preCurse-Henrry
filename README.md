@@ -1,2 +1,1 @@
-# preCurse-Henrry
-este es el primer repositorio para practicar el modulo 2 de hennry
+este proyecto es un aprueba de como crear un reposotprio en la nueve
